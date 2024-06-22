@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mern-bank_finance/static/css/main.e6c13ad2.css",
+    "main.js": "/mern-bank_finance/static/js/main.6f6d8271.js",
+    "static/js/453.419a5d54.chunk.js": "/mern-bank_finance/static/js/453.419a5d54.chunk.js",
+    "index.html": "/mern-bank_finance/index.html",
+    "main.e6c13ad2.css.map": "/mern-bank_finance/static/css/main.e6c13ad2.css.map",
+    "main.6f6d8271.js.map": "/mern-bank_finance/static/js/main.6f6d8271.js.map",
+    "453.419a5d54.chunk.js.map": "/mern-bank_finance/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6f6d8271.js"
+  ]
+}
